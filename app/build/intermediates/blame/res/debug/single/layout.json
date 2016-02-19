@@ -1,0 +1,10 @@
+[
+  {
+    "merged": "F:\\workspace\\jeson\\TestPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+    "source": "F:\\workspace\\jeson\\TestPB\\app\\src\\main\\res\\layout\\activity_main.xml"
+  },
+  {
+    "merged": "F:\\workspace\\jeson\\TestPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_item.xml",
+    "source": "F:\\workspace\\jeson\\TestPB\\app\\src\\main\\res\\layout\\adapter_item.xml"
+  }
+]

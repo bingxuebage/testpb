@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidSoft\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\workspace\jeson\TestPB\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_6c9f9674ff4851fc1080f09ee896bfa71125850f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\3.0.0-beta-2\de80fe047052445869b96f6def6baca7182c95af\protobuf-java-3.0.0-beta-2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de80fe047052445869b96f6def6baca7182c95af">
+        <dex dex="F:\workspace\jeson\TestPB\app\build\intermediates\pre-dexed\debug\protobuf-java-3.0.0-beta-2_273377d66b20475948b8506e5d1cc7df591038cd.jar" />
+    </item>
+
+</items>
